@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    color: #01579b;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1, h2 {
+    color: #0277bd;
+}
+
+.video-container, .pdf-container {
+    margin-bottom: 20px;
+}
+
+video {
+    width: 100%;
+    border: 2px solid #0288d1;
+    border-radius: 8px;
+}
+
+embed {
+    border: 2px solid #0288d1;
+    border-radius: 8px;
+}
